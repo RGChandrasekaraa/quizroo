@@ -1,3 +1,4 @@
+//Div Selectors
 async function sendTextToChatGPT(text) {
     const apiKey = 'api'; // Replace with your actual API key
     const endpoint = 'https://api.openai.com/v1/chat/completions';
